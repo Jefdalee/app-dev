@@ -1,17 +1,17 @@
 # app-dev
 
-## My Favorite Series: Your Title Here
+## My Favorite Series: JoJo's Bizarre Adventure
 
 **Genre:** Drama
 
 My favorite characters:
-1. Character One
-2. Character Two
+1. Diego Brando
+2. Gyro Zeppeli
 
 Why I like it:
 - *Great* story
 - **Memorable** soundtrack
 
-> "Favorite quote here."
+> "If your heart is wavering, do not shoot."
 
-[Watch trailer](https://youtube.com)
+[Watch trailer](https://youtu.be/b51C8AbRDGU)
